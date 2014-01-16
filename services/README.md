@@ -8,7 +8,7 @@ Except Skype.
 * **[CircleCI](circleci)**
 * **[Code Climate](code_climate)**
 * **[Sprintly](sprintly)**
-
+* **[Slack](slack)**
 _Todo_
 
 * **[Skype](skype)**
